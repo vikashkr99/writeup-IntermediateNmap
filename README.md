@@ -12,8 +12,8 @@ It gave us a username and password 😂
 well this was easy.  
 Let's try to login with these credentials.  
 
-3. SSH
-![ssh](./ssh.png)
+3. SSH  
+![ssh](./ssh.png)  
 Wow, we are in.  
 All that's left is to find the flag in user account and read it.
 
